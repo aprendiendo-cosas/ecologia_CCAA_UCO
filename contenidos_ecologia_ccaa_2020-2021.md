@@ -21,6 +21,9 @@
 ***
 + **Tema 1: Poblaciones** 
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_poblaciones_ecologia_ccaa/guion_poblaciones_general.html)
+  
+  actualizar lo de abajo
+  
   + [Descargar material](https://zenodo.org/record/4056811/files/fjbonet/poblaciones-v.2019-2020.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4056811.svg)](https://doi.org/10.5281/zenodo.4056811) 
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/v.2019-2020)
 
@@ -28,7 +31,7 @@
 + *Tarea: Categorías de amenaza de especies de la UICN.* 
   
   + [Guión dinámico](https://aprendiendo-cosas.github.io/A_sp_amenazadas_ecologia_ccaa/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/record/4057061/files/fjbonet/categorias_amenaza_especies-v.2019-2020.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4057061.svg)](https://doi.org/10.5281/zenodo.4057061)
+  + [Descargar material](https://zenodo.org/record/4737755/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-v.2020-2021.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4737755.svg)](https://doi.org/10.5281/zenodo.4737755)
   +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/v.2020-2021)
 ***
 
