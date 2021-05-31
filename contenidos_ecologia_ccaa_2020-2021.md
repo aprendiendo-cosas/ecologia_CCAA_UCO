@@ -23,7 +23,6 @@ Debajo de la imagen tienes la lista de temas ordenados de la misma manera que se
   style="width:100%; height:450px;"
 ></iframe>
 
-<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles_actividades.png" alt="portada" style="zoom:100%;" />
 
 
 
