@@ -49,7 +49,7 @@
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biomas_ecologia_ccaa/tree/v.2020-2021) 
 ***
 + **Tema 5: Poblaciones. Explotación de poblaciones**
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_poblaciones_explotacion_ecologia_ccaa/presentacion/explotacion_poblaciones.html)
+  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_poblaciones_explotacion_ecologia_ccaa/guion_explotacion_poblaciones.html)
   + [Descargar material]
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/tree/v.2020-2021)
 ***
@@ -121,30 +121,26 @@
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html)
   + [Descargar material]
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/tree/v.2020-2021)
-+ *Práctica xxxx: Restauración de ecosistemas. Visita al parque de Levante*
++ *Práctica 7: Restauración de ecosistemas. Visita al parque de Levante*
   + [Guión dinámico](https://aprendiendo-cosas.github.io/P_parque_levante_ecologia_ccaa/guion_visita_parque_levante.html)
   + [Descargar material]
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/tree/v.2020-2021)
++ *Práctica 8: Excursión a Sierra Nevada*
+  + [Guión dinámico](https://aprendiendo-cosas.github.io/C_sierra_nevada_ecologia_ccaa/guion_salida_sierra_nevada.html)
+  + [Descargar material]
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/tree/v.2020-2021)
 ***
 + **Tema 15: Biosfera. Ciclos biogeoquímicos. Teoría de Gaia**
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_ciclos_biogeo_ecologia_ccaa/guion_ciclos_biogeoquimicos.html)
   + [Descargar material]
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/tree/v.2020-2021)
 ***
-
-
-
-
-
-
-
-
-
-
-+ **Tema x: loquesea**
-  + [Guión dinámico]()
++ **Tema 16: Cambio Global y Antropoceno**
+  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_cambio_global_ecologia_ccaa/guion_cambio_global.html)
   + [Descargar material]
-  + [Ver material en Github]()
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/tree/v.2020-2021)
+***
+<span style="color:red"> *some emphasized markdown text*</span>
 
 
 
