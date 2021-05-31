@@ -47,6 +47,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_poblaciones_comp_intra_ecologia_ccaa/guion_competencia_intraespecifica.html)
   + [Descargar material](https://zenodo.org/record/4883774/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4883774.svg)](https://doi.org/10.5281/zenodo.4883774)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/v.2020-2021)
+
 + **Práctica 2: Manejo de pinares de repoblación. Un ejemplo de la importancia de la competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   + [Guión dinámico](https://aprendiendo-cosas.github.io/P_comp_intra_ecologia_CCAA/guion_competencia_intraespecifica_pinares.html)
   + [Descargar material](https://zenodo.org/record/4850528/files/aprendiendo-cosas/P_comp_intra_ecologia_CCAA-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4850528.svg)](https://doi.org/10.5281/zenodo.4850528)
@@ -66,6 +67,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_comunidades_diversidad_ecologia_ccaa/guion_comunidades_diversidad.html)
   + [Descargar material](https://zenodo.org/record/4850558/files/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4850558.svg)](https://doi.org/10.5281/zenodo.4850558)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/tree/v.2020-2021)
+
 + **Práctica 3: Construcción de un mapa de diversidad de Sierra Nevada.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   + [Guión dinámico]
   + [Descargar material]
