@@ -1,10 +1,10 @@
-# Relación de contenidos de la asignatura de **ecología** del grado de Ciencias ambientales en la UCO.
+# Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO.
 ### Curso 2020-2021
 
 ***
 
 + **Introducción a la asignatura** 
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_intro_asignatura_ecologia_ccaa/guion_introduccion_asignatura.html)
+  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_intro_asignatura_ecologia_ccaa/guion_introduccion_asignatura.html) <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:40%;" />
   
   + [Descargar material](https://zenodo.org/record/4579826/files/aprendiendo-cosas/intro_asignatura_ecologia_ccaa-2020-2021.zip?download=1)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4579826.svg)](https://doi.org/10.5281/zenodo.4579826)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/intro_asignatura_ecologia_ccaa/tree/2020-2021) 
