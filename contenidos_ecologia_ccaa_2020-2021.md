@@ -1,23 +1,37 @@
 # Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO.
 ### Curso 2020-2021
 
-***
+![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada.jpg)
+
 
 
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. En primer lugar esta el esquema general que muestra los principales temas abordados. Puedes hacer click en cada rótulo para ir al guión correspondiente.
 
-Debajo de la imagen tienes la lista de temas ordenados de la misma manera que se muestran en el moodle. Para cada acto docente tienes la siguiente informacóni:
+Debajo de la imagen tienes la lista de temas ordenados de la misma manera que se muestran en el moodle. Para cada acto docente tienes la siguiente información:
 + Guión dinámico de la sesión: Es la página que contiene el guión del tema en cuestión. Ahí verás enlaces a las presentaciones, vídeos y otro material utilizado. Es importante que sepas que estos enlaces estarán activos solo durante el presente curso. El curso que viene estas páginas llevarán a las versiones de dicho curso. 
 + Descargar material: En este enlace se descarga un archivo .zip con todo el material del tema seleccionado. Así no tienes que ir descargando las cosas una a una. Este enlace estará siempre disponible. 
 + Ver material en Github: Muestra el mismo contenido de antes, pero tal y como se despliega en el repositorio de código Github. Quizás esta opción es la menos útil para lo estudiantes. Este enlace estará siempre disponible.
 
 
 
+## *Esquema con enlaces a los temas* 
 
 
-<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles_actividades.png" alt="portada" style="zoom:200%;" />
+
+<iframe
+  src="https://aprendiendo-cosas.github.io/ecologia_ccaa_UCO/prueba.html"
+  style="width:100%; height:450px;"
+></iframe>
+
+<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles_actividades.png" alt="portada" style="zoom:100%;" />
 
 
+
+
+
+
+
+## *Secuencia de temas abordados* 
 
 + **Introducción a la asignatura.** 
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_intro_asignatura_ecologia_ccaa/guion_introduccion_asignatura.html) 
