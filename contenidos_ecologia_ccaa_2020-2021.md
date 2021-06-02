@@ -100,10 +100,9 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/4850633/files/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4850633.svg)](https://doi.org/10.5281/zenodo.4850633)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/tree/v.2020-2021)
 + **Práctica 4: Modelización de la depredación usando Vensim.**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Conexión al material que hay en Moodle](https://moodle.uco.es/m2021/course/view.php?id=1540#section-13)
-  + [Guión dinámico]
+  + [Guión dinámico](https://aprendiendo-cosas.github.io/P_vensim_depredacion_ecologia_ccaa/guion_practica_vensim.html)
   + [Descargar material]
-  + [Ver material en Github]
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_vensim_depredacion_ecologia_ccaa/tree/v.2020-2021)
 ***
 + **Tema 10: Comunidades. Mutualismo. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_mutualismo_ecologia_ccaa/guion_mutualismo.html)
