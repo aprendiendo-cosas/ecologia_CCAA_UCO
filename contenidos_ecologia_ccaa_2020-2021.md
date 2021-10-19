@@ -67,12 +67,14 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_comunidades_diversidad_ecologia_ccaa/guion_comunidades_diversidad.html)
   + [Descargar material](https://zenodo.org/record/4850558/files/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4850558.svg)](https://doi.org/10.5281/zenodo.4850558)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/tree/v.2020-2021)
+***
 
 + **Práctica 3: Construcción de un mapa de diversidad de Sierra Nevada.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   + [Guión dinámico](https://aprendiendo-cosas.github.io/P_shannon_ecologia_ccaa/guion_practica_mapa_biodiversidad.html)
   + [Descargar material](https://zenodo.org/record/5579151/files/aprendiendo-cosas/P_shannon_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5579151.svg)](https://doi.org/10.5281/zenodo.5579151)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/tree/2020-2021)
 ***
+
 + **Tema 7: Comunidades. Biogeografía de islas. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_comunidades_biogeo_islas_ecologia_ccaa/guion_comunidades_biogeografia_islas.html)
   + [Descargar material](https://zenodo.org/record/4850566/files/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4850566.svg)](https://doi.org/10.5281/zenodo.4850566)
