@@ -19,29 +19,30 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 ## *Secuencia de temas abordados* 
 
 + **Introducción a la asignatura.** 
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_intro_asignatura_ecologia_ccaa/guion_introduccion_asignatura.html) 
-  + [Descargar material](https://zenodo.org/record/4579826/files/aprendiendo-cosas/intro_asignatura_ecologia_ccaa-2020-2021.zip?download=1)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4579826.svg)](https://doi.org/10.5281/zenodo.4579826)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2020-2021/guion_introduccion_asignatura.html)
+  + [Descargar material](https://zenodo.org/record/5586325/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5586325.svg)](https://doi.org/10.5281/zenodo.5586325)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/intro_asignatura_ecologia_ccaa/tree/2020-2021) 
 ***
 + **Tema 1: Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_generalidades_ecologia_ccaa/guion_generalidades_ecologia.html). 
-  + [Descargar material](https://zenodo.org/record/4587572/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587572.svg)](https://doi.org/10.5281/zenodo.4587572)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/v.2020-2021)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2020-2021/guion_generalidades_ecologia.html). 
+  + [Descargar material](https://zenodo.org/record/5588474/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5588474.svg)](https://doi.org/10.5281/zenodo.5588474)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2020-2021)
 ***
 + **Práctica 1: Búsqueda de bibliografía científica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/P_biblio_ecologia_ccaa/guion_practica_biblio.html). 
-  + [Descargar material](https://zenodo.org/record/4587972/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587972.svg)](https://doi.org/10.5281/zenodo.4587972)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2020-2021/guion_practica_biblio.html). 
+  + [Descargar material](https://zenodo.org/record/5588656/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5588656.svg)](https://doi.org/10.5281/zenodo.5588656)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/tree/2020-2021)
 ***
 + **Tema 2: Poblaciones. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_poblaciones_ecologia_ccaa/guion_poblaciones_general.html)
-  + [Descargar material](https://zenodo.org/record/4056811/files/fjbonet/poblaciones-v.2019-2020.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4056811.svg)](https://doi.org/10.5281/zenodo.4056811) 
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/v.2019-2020)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2020-2021/guion_poblaciones_general.html)
+
+  + [Descargar material](https://zenodo.org/record/5588815/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5588815.svg)](https://doi.org/10.5281/zenodo.5588815)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2020-2021)
 
 + **Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://aprendiendo-cosas.github.io/A_sp_amenazadas_ecologia_ccaa/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/record/4737755/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4737755.svg)](https://doi.org/10.5281/zenodo.4737755)
-  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/v.2020-2021)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2020-2021/guion_actividad_UICN.html)
+  + [Descargar material](https://zenodo.org/record/5589145/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5589145.svg)](https://doi.org/10.5281/zenodo.5589145)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2020-2021)
 ***
 + **Tema 3: Poblaciones. Competecia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
   + [Guión dinámico](https://aprendiendo-cosas.github.io/Te_poblaciones_comp_intra_ecologia_ccaa/guion_competencia_intraespecifica.html)
