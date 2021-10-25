@@ -3,7 +3,7 @@
 
 
 
-Si has llegado a esta web sin contexto alguno, quizás te apetezca leer esto. En esta página se muestra el material que utilizamos en la docencia de ecología en el grado de ambientales de la Universidad de Córdoba. Abajo puedes ver un enlace para cada curso académico. Espero que te resulte de utilidad. Si quieres decirme algo sobre este material (o sobre lo que quieras), escríbeme un correo ([fjbonet@uco.es](mailto:fjbonet@uco.es)), un [Tweet](https://twitter.com/fjbonet) o un menesaje de [Telegram](t.me/fjbonet)). 
+Si has llegado a esta web sin contexto alguno, quizás te apetezca leer [esto](https://aprendiendo-cosas.github.io/). En esta página se muestra el material que utilizamos en la docencia de ecología en el grado de ambientales de la Universidad de Córdoba. Abajo puedes ver un enlace para cada curso académico. Espero que te resulte de utilidad. Si quieres decirme algo sobre este material (o sobre lo que quieras), escríbeme un correo ([fjbonet@uco.es](mailto:fjbonet@uco.es)), un [Tweet](https://twitter.com/fjbonet) o un menesaje de [Telegram](t.me/fjbonet)). 
 
 
 
