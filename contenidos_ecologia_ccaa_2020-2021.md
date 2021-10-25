@@ -123,10 +123,10 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/5593166/files/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593166.svg)](https://doi.org/10.5281/zenodo.5593166)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/tree/2020-2021)
 + **Práctica 5: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Conexión al material que hay en moodle](https://moodle.uco.es/m2021/course/view.php?id=1540#section-17)
-  + [Guión dinámico]
-  + [Descargar material]
-  + [Ver material en Github]
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2020-2021/guion_ndvi.html)
+   [Descargar material](https://zenodo.org/record/5597147/files/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5597147.svg)](https://doi.org/10.5281/zenodo.5597147)
+
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/tree/2020-2021)
 ***
 + **Tema 13: Ecosistemas. Producción secundaria y descomposición. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2020-2021/guion_prod_secundaria_descomposicion.html)
@@ -141,6 +141,8 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/2020-2021/guion_visita_parque_levante.html)
   + [Descargar material](https://zenodo.org/record/5593683/files/aprendiendo-cosas/P_parque_levante_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593683.svg)](https://doi.org/10.5281/zenodo.5593683)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/tree/2020-2021)
+  
+  ***
 + **Práctica 7: Excursión a Sierra Nevada.** (Incompleto) <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2020-2021/guion_salida_sierra_nevada.html)
   + [Descargar material](https://zenodo.org/record/5593696/files/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593696.svg)](https://doi.org/10.5281/zenodo.5593696)
