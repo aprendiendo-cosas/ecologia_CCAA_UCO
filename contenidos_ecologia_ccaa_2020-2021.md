@@ -9,7 +9,7 @@
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. 
 
 A continuación puedes ver los temas ordenados de la misma manera que se muestran en el moodle. Al lado de cada tema puedes ver uno o varios rectángulos de color que muestra el tipo de contenido del mismo. Para cada acto docente (o tema) tienes la siguiente información:
-+ Guión dinámico de la sesión: Es la página que contiene el guión del tema en cuestión. Ahí verás enlaces a las presentaciones, vídeos y otro material utilizado. Es importante que sepas que estos enlaces estarán activos solo durante el presente curso. El curso que viene estas páginas llevarán a las versiones de dicho curso. 
++ Guión dinámico de la sesión: Es la página que contiene el guión del tema en cuestión. Ahí verás enlaces a las presentaciones, vídeos y otro material utilizado.  
 + Descargar material: En este enlace se descarga un archivo .zip con todo el material del tema seleccionado. Así no tienes que ir descargando las cosas una a una. Este enlace estará siempre disponible. La imagen que hay a la derecha del enlace y que empieza por "DOI" muestra el identificador único de este acto docente dentro de la red [Zenodo](https://zenodo.org/). Por favor, usa este código en caso de que quieras citar el material enlazado.
 + Ver material en Github: Muestra el mismo contenido de antes, pero tal y como se despliega en el repositorio de código Github. Quizás esta opción es la menos útil para lo estudiantes. Este enlace estará siempre disponible.
 
