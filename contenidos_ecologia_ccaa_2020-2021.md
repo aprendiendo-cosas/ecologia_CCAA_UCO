@@ -2,7 +2,7 @@
 
 ### Curso 2020-2021
 
-![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada_2020_2021.jpg)
 
 
 
