@@ -2,6 +2,8 @@
 
 ### Curso 2021-2022
 
+![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada_2021_2022.JPG)
+
 
 
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. 
