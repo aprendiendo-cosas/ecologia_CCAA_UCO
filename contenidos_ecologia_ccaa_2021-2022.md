@@ -36,3 +36,193 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/6303480/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6303480.svg)](https://doi.org/10.5281/zenodo.6303480)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2021_2022)
 
++ **Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2021-2022/guion_actividad_UICN.html)
+  + [Descargar material](https://zenodo.org/record/6312826/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6312826.svg)](https://doi.org/10.5281/zenodo.6312826)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2020-2021)
+
+***
++ **Tema 2: Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2021-2022/guion_competencia_intraespecifica.html) 
+  
+  + [Descargar material](https://zenodo.org/record/6338660/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6338660.svg)](https://doi.org/10.5281/zenodo.6338660)
+  
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2020-2021)
+  
+    
+  
++ **Práctica 2: Manejo de pinares de repoblación. Un ejemplo de la importancia de la competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2021_2022/guion_competencia_intraespecifica_pinares.html) 
+  + [Descargar material](https://zenodo.org/record/6359779/files/aprendiendo-cosas/P_comp_intra_ecologia_CCAA-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6359779.svg)](https://doi.org/10.5281/zenodo.6359779)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/tree/2021_2022) 
+***
+
+
++ **Tema 3: Poblaciones. Metapoblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2021-2022/guion_metapoblaciones.html)
+  + [Descargar material](https://zenodo.org/record/6359956/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6359956.svg)](https://doi.org/10.5281/zenodo.6359956)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/tree/2021-2022)
+***
++ **TEMA EXTRA QUE NO HEMOS VISTO EN CLASE: Poblaciones. Explotación de poblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2020-2021/guion_explotacion_poblaciones.html)
+  + [Descargar material](https://zenodo.org/record/5590279/files/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5590279.svg)](https://doi.org/10.5281/zenodo.5590279)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/tree/2020-2021)
+***
+
++  **Tema 4: Comunidades. Generalidades. El concepto de diversidad. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2021_2022/guion_comunidades_diversidad.html)
+  + [Descargar material](https://zenodo.org/record/6371378/files/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6371378.svg)](https://doi.org/10.5281/zenodo.6371378)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/tree/2021_2022)
+
++ **Práctica 3: Construcción de un mapa de diversidad de Sierra Nevada.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2021_2022/guion_practica_mapa_biodiversidad.html)
+  + [Descargar material](https://zenodo.org/record/6371394/files/aprendiendo-cosas/P_shannon_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6371394.svg)](https://doi.org/10.5281/zenodo.6371394)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/tree/2021_2022)
+***
++ **Tarea: Efecto de la escala espacial en el significado del concepto de diversidad.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/2021_2022/guion_actividad_escalas_biodiversidad.html)
+  + [Descargar material](https://zenodo.org/record/6374076/files/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6374076.svg)](https://doi.org/10.5281/zenodo.6374076)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/tree/2021_2022)
+
+***
+
++ **Tema 5: Comunidades. Biogeografía de islas. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2021-2022/guion_comunidades_biogeografia_islas.html)
+  + [Descargar material](https://zenodo.org/record/6424807/files/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6424807.svg)](https://doi.org/10.5281/zenodo.6424807)
++ **Tarea: Comparación entre biogeografía de islas y teoría de metapoblaciones.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/2021_2022/guion_actividad_biogeoislas_vs_metapoblaciones.html)
+  + [Descargar material](https://zenodo.org/record/6380952/files/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6380952.svg)](https://doi.org/10.5281/zenodo.6380952)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/tree/2021_2022)
+
++ **Práctica 4: Caracterización de la conectividad de los espacios de  la Red Natura 2000 en Andalucía** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_corredores_ecologia_ccaa/2021_2022/guion_corredores_ecologicos_andalucia.html)
+  + [Descargar material](https://zenodo.org/record/6424765/files/aprendiendo-cosas/P_corredores_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6424765.svg)](https://doi.org/10.5281/zenodo.6424765)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_corredores_ecologia_ccaa/tree/2021_2022)
+***
+
++ **Tema 6: Comunidades. Depredación.**<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/2021-2022/guion_depredacion.html)
+  + [Descargar material](https://zenodo.org/record/6424863/files/aprendiendo-cosas/Te_depredacion_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6424863.svg)](https://doi.org/10.5281/zenodo.6424863)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/tree/2021-2022)
+
++ **Práctica 5: Modelización de las interacciones ecológicas. Desde el crecimiento exponencial hasta las cascadas tróficas**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2021-2022/guion_practica_modelizacion.html)
+  + [Descargar material](https://zenodo.org/record/6425055/files/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6425055.svg)](https://doi.org/10.5281/zenodo.6425055)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2021-2022)
+***
+
++ **Tarea: Reflexión sobre relaciones ecológicas. El caso del lobo en Andalucía.**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/2021-2022/guion_reintroduccion_lobo.html)
+  + [Descargar material](https://zenodo.org/record/6461749/files/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6461749.svg)](https://doi.org/10.5281/zenodo.6461749)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/tree/2021-2022)
+
+
++ **Tema 7: Comunidades. Competencia interespecífica. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/2021_2022/guion_competencia_interespecifica.html)
+  + [Descargar material](https://zenodo.org/record/6522192/files/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6522192.svg)](https://doi.org/10.5281/zenodo.6522192)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/tree/2021_2022)
+***
+
++ **Tema 8: socioecología**
+
+
+
++ **Práctica 6: Escenarios de futuro
+
+
+
+
+
+***
+
+
++ **Práctica 7: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2021-2022/guion_ndvi.html)
+   [Descargar material](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/archive/refs/tags/2021-2022.zip)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/tree/2021-2022)
+***
+
++ **Tema 9: Comunidades. Mutualismo. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2021-2022/guion_mutualismo.html)
+  + [Descargar material](https://zenodo.org/record/6540394/files/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6540394.svg)](https://doi.org/10.5281/zenodo.6540394)  
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/tree/2021-2022)
+
+***
++ **Tema 10: Ecosistemas. Generalidades. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2021-2022/guion_ecosistemas.html)
+  + [Descargar material](https://zenodo.org/record/6540440/files/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6540440.svg)](https://doi.org/10.5281/zenodo.6540440)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/tree/2021-2022)
+
+***
++ **Tema 11: Ecosistemas. Producción primaria**. <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/2021-2022/guion_produccion_primaria.html)
+  + [Descargar material](https://zenodo.org/record/6543445/files/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6543445.svg)](https://doi.org/10.5281/zenodo.6543445)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/tree/2021-2022)
+
+
+
+
+
+
+
+
+
+
+
+
++ **Tema 13: Ecosistemas. Producción secundaria y descomposición. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2020-2021/guion_prod_secundaria_descomposicion.html)
+  + [Descargar material](https://zenodo.org/record/5593463/files/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593463.svg)](https://doi.org/10.5281/zenodo.5593463)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/tree/2020-2021)
+***
++ **Tema 14: Ecosistemas. Sucesión ecológica. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2020-2021/guion_sucesion.html)
+  + [Descargar material](https://zenodo.org/record/5593681/files/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593681.svg)](https://doi.org/10.5281/zenodo.5593681)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/tree/2020-2021)
++ **Práctica 6: Restauración de ecosistemas. Visita al parque de Levante.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/2020-2021/guion_visita_parque_levante.html)
+  + [Descargar material](https://zenodo.org/record/5593683/files/aprendiendo-cosas/P_parque_levante_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593683.svg)](https://doi.org/10.5281/zenodo.5593683)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/tree/2020-2021)
+  
+  ***
++ **Práctica 7: Excursión a Sierra Nevada.** (Incompleto) <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2020-2021/guion_salida_sierra_nevada.html)
+  + [Descargar material](https://zenodo.org/record/5593696/files/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593696.svg)](https://doi.org/10.5281/zenodo.5593696)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/tree/2020-2021)
+***
++ **Práctica 8: Relaciones entre clima y distribución de biomas.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biomas_ecologia_ccaa/2020-2021/guion_practica_biomas_vs_clima.html)
+  + [Descargar material](https://zenodo.org/record/5593703/files/aprendiendo-cosas/P_biomas_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593703.svg)](https://doi.org/10.5281/zenodo.5593703)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biomas_ecologia_ccaa/tree/2020-2021) 
+***
++ **Tema 15: Biosfera. Ciclos biogeoquímicos. Cambio global.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  
+  + [Guión dinámico sobre ciclos biogeoquímicos](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2020-2021/guion_ciclos_biogeoquimicos.html)
+  + [Descargar material](https://zenodo.org/record/4850659/files/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa-v.2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4850659.svg)](https://doi.org/10.5281/zenodo.4850659)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/tree/2020-2021)
+  
+   
+  
+  + [Guión dinámico sobre el Cambio Global](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2020-2021/guion_cambio_global.html)
+  + [Descargar material](https://zenodo.org/record/5595963/files/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5595963.svg)](https://doi.org/10.5281/zenodo.5595963)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/tree/2020-2021)
+***
+
++ **Tarea: Trabajo tematico final**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_trabajo_tematico_ecologia_ccaa/2021-2022/guion_trabajo_tematico.html)
+  + [Descargar material](https://zenodo.org/record/6463984/files/aprendiendo-cosas/T_trabajo_tematico_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6463984.svg)](https://doi.org/10.5281/zenodo.6463984)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_trabajo_tematico_ecologia_ccaa/tree/2020-2021)
+***
++ **Tarea: Portafolio**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2020-2021/guion_portafolio.html)
+  + [Descargar material](https://zenodo.org/record/5596133/files/aprendiendo-cosas/T_portafolio_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5596133.svg)](https://doi.org/10.5281/zenodo.5596133)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2020-2021)
+***
++ **Resumen de la asignatura** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/2020-2021/resumen_asignatura.html)
+  + [Descargar material](https://zenodo.org/record/5596161/files/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5596161.svg)](https://doi.org/10.5281/zenodo.5596161)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/tree/2020-2021)
+
+***

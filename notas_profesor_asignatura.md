@@ -456,7 +456,7 @@ Lecciones aprendidas:
 + Pensar cómo aumentar el peso de vensim en las prácticas
 + sobre la actividad de la uicn:
    **QUITAR LA PALABRA CREES DE LAS PREGUNTAS. REFORMULAR LAS PREGUNTAS PARA QUE NO QUEDEN DUDAS. ESO DE ALINEAR NO TIENE SENTIDO.**
-   **reformular la primera pregunta. no se entiende bien así. catalogación vs demografía. indicar que la pregunta se refiere a las especies en cuestión**
+   **reformular la primera pregunta. no se entiende bien así. catalogación vs demografía. indicar que la pregunta se refiere a las especies en cuestión. ** *HECHO*
 + Describir con detalle en la primera sesión cómo va a ser el curso. Hoja de ruta usando la presentación de Eli... Mostrar todos los temas, las tareas, las prácticas y la salida de campo. 
 + Poner en el calendario con antelación las fechas de entrega de las tareas. Comunicar dichas fechas de entrega al coordinador del grado y pedir que informe al resto de profesores. Hacerlo tratando de evitar conflictos con los parciales de otras asignaturas. 
 + Poner en el moodle la lista de sesiones de la asignatura desde el primer día.
