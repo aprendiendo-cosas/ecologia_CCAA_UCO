@@ -64,7 +64,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 + **Tema 3: Poblaciones. Metapoblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2021-2022/guion_metapoblaciones.html)
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2021-2022/guion_metapoblaciones.html)
   + [Descargar material](https://zenodo.org/record/6359956/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6359956.svg)](https://doi.org/10.5281/zenodo.6359956)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/tree/2021-2022)
 ***
