@@ -1,10 +1,10 @@
-# Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO.
+#  Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO.
 
-### Curso 2021-2022
+### Curso 2022-2023
 
-Este curso ha estado marcado por una cierta vuelta a la normalidad después de la primera pandemia de COVID-19. También en el lado positivo, hemos contado con una nueva profesora en la asignatura: [Elisa Oteros Rozas](https://twitter.com/ElisaOtra). Su visión socioecológica ha sido muy enriquecedora para la asignatura. Pero lo más relevante ha sido que hemos contado con un grupo de estudiantes entregados a la causa de aprender ecología :) En la foto de abajo puedes ver a los valientes que se atrevieron con la excursión a Sierra Nevada
+Texto introductorio
 
-![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada_2021_2022.JPG)
+![portada](url foto portada)
 
 
 
@@ -21,28 +21,39 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 ## *Secuencia de temas abordados* 
 
 + **Introducción a la asignatura.** 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2021---2022/guion_introduccion_asignatura.html)
-  + [Descargar material](https://zenodo.org/record/6299924/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2021---2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6299924.svg)](https://doi.org/10.5281/zenodo.6299924)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2021---2022) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2022___2023/guion_introduccion_asignatura.html)
+  + [Descargar material](https://zenodo.org/record/7671245/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2022___2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7671245.svg)](https://doi.org/10.5281/zenodo.7671245)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2022___2023) 
 ***
+
 + **Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2021---2022/guion_generalidades_ecologia.html). 
-  + [Descargar material](https://zenodo.org/record/6299935/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2021---2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6299935.svg)](https://doi.org/10.5281/zenodo.6299935)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2021---2022)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2022_2023/guion_generalidades_ecologia.html). 
+  + [Descargar material](https://zenodo.org/record/7671491/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7671491.svg)](https://doi.org/10.5281/zenodo.7671491)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2022_2023)
+
 ***
+
+
+
+
+
+
+
+
 + **Práctica: Búsqueda de bibliografía científica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/guion_practica_biblio.html). 
   + [Descargar material](https://zenodo.org/record/6301735/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6301735.svg)](https://doi.org/10.5281/zenodo.6301735)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/tree/2021_2022)
-***
-+ **Aspectos generales sobre poblaciones ecológicas.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2021_2022/guion_poblaciones_general.html). 
-  + [Descargar material](https://zenodo.org/record/6303480/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6303480.svg)](https://doi.org/10.5281/zenodo.6303480)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2021_2022)
 
-+ **Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2021__2022/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/record/6634282/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2021__2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634282.svg)](https://doi.org/10.5281/zenodo.6634282)
+***
++ OK**Aspectos generales sobre poblaciones ecológicas.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2022_2023/guion_poblaciones_general.html). 
+  + [Descargar material](https://zenodo.org/record/7690525/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7690525.svg)](https://doi.org/10.5281/zenodo.7690525)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2022_2023)
+
++ OK**Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2022_2023/guion_actividad_UICN.html)
+  + [Descargar material](https://zenodo.org/record/7689023/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7689023.svg)](https://doi.org/10.5281/zenodo.7689023)
   +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2021__2022)
 
 ***
