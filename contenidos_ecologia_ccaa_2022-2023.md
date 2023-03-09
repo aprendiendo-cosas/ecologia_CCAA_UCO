@@ -32,38 +32,37 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2022_2023)
 
 ***
-
-
-
-
-
-
-
-
-+ **Práctica: Búsqueda de bibliografía científica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/guion_practica_biblio.html). 
-  + [Descargar material](https://zenodo.org/record/6301735/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6301735.svg)](https://doi.org/10.5281/zenodo.6301735)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/tree/2021_2022)
-
-***
-+ OK**Aspectos generales sobre poblaciones ecológicas.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
++ **Aspectos generales sobre poblaciones ecológicas.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2022_2023/guion_poblaciones_general.html). 
   + [Descargar material](https://zenodo.org/record/7690525/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7690525.svg)](https://doi.org/10.5281/zenodo.7690525)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2022_2023)
 
-+ OK**Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
++ **Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2022_2023/guion_actividad_UICN.html)
   + [Descargar material](https://zenodo.org/record/7689023/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7689023.svg)](https://doi.org/10.5281/zenodo.7689023)
-  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2021__2022)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2022_2023)
+
+
+
+
+
+
+
+
++ **Práctica: Algunas pistas para no sucumbir en el mar de información en el que navegamos...** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/guion_practica_biblio.html). 
+  + [Descargar material](https://zenodo.org/record/6301735/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6301735.svg)](https://doi.org/10.5281/zenodo.6301735)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/tree/2021_2022)
+
 
 ***
-+ **Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
++ ok**Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
   
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2021-2022/guion_competencia_intraespecifica.html) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2022-2023/guion_competencia_intraespecifica.html) 
   
-  + [Descargar material](https://zenodo.org/record/6338660/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6338660.svg)](https://doi.org/10.5281/zenodo.6338660)
+  + [Descargar material](https://zenodo.org/record/7702113/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7702113.svg)](https://doi.org/10.5281/zenodo.7702113)
   
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2021-2022)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2022-2023)
   
     
   
@@ -75,10 +74,10 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 ***
 
 
-+ **Poblaciones. Metapoblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2021-2022/guion_metapoblaciones.html)
-  + [Descargar material](https://zenodo.org/record/6359956/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6359956.svg)](https://doi.org/10.5281/zenodo.6359956)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/tree/2021-2022)
++ ok**Poblaciones. Metapoblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2022-2023/guion_metapoblaciones.html)
+  + [Descargar material](https://zenodo.org/record/7713555/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7713555.svg)](https://doi.org/10.5281/zenodo.7713555)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/tree/2022-2023)
 ***
 
 +  **Comunidades. Generalidades. El concepto de diversidad. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" />
