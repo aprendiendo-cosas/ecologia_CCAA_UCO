@@ -1,4 +1,4 @@
-# Normas de uso de herramientas de inteligenci artificial
+# Normas de uso de herramientas de inteligencia artificial
 
 
 > + **_Versión_**: 2022-2023
