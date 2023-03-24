@@ -210,16 +210,13 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 ***
 
-+ **Tarea: Trabajo tematico final**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_trabajo_tematico_ecologia_ccaa/2021-2022/guion_trabajo_tematico.html)
-  + [Descargar material](https://zenodo.org/record/6463984/files/aprendiendo-cosas/T_trabajo_tematico_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6463984.svg)](https://doi.org/10.5281/zenodo.6463984)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_trabajo_tematico_ecologia_ccaa/tree/2021-2022)
+
 
 ***
-+ **Tarea: Portafolio**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2021-2022/guion_portafolio.html)
-  + [Descargar material](https://zenodo.org/record/6634472/files/aprendiendo-cosas/T_portafolio_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634472.svg)](https://doi.org/10.5281/zenodo.6634472)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2021-2022)
++ ok **Tarea: Portafolio**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico2](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2022-2023/guion_portafolio.html)
+  + [Descargar material](https://zenodo.org/record/7764988/files/aprendiendo-cosas/T_portafolio_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7764988.svg)](https://doi.org/10.5281/zenodo.7764988)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2022-2023)
 ***
 + **Resumen de la asignatura** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/2021-2022/resumen_asignatura.html)
