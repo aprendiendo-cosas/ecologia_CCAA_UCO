@@ -110,35 +110,12 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/2022-2023/guion_depredacion.html)
   + [Descargar material](https://zenodo.org/record/7831941/files/aprendiendo-cosas/Te_depredacion_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7831941.svg)](https://doi.org/10.5281/zenodo.7831941)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/tree/2022-2023)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-+ **Práctica: Modelización de las interacciones ecológicas. Desde el crecimiento exponencial hasta las cascadas tróficas**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2021-2022/guion_practica_modelizacion.html)
-  + [Descargar material](https://zenodo.org/record/6425055/files/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6425055.svg)](https://doi.org/10.5281/zenodo.6425055)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2021-2022)
-
-
-
-+ **Tarea: Reflexión sobre relaciones ecológicas. El caso del lobo en Andalucía.**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/2021-2022/guion_reintroduccion_lobo.html)
-  + [Descargar material](https://zenodo.org/record/6461749/files/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6461749.svg)](https://doi.org/10.5281/zenodo.6461749)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_lobo_andalucia_ecologia_ccaa/tree/2021-2022)
-  
-  ***
-
+***
 
 + **Comunidades. Competencia interespecífica. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/2021_2022/guion_competencia_interespecifica.html)
-  + [Descargar material](https://zenodo.org/record/6522192/files/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6522192.svg)](https://doi.org/10.5281/zenodo.6522192)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/tree/2021_2022)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/2022__2023/guion_competencia_interespecifica.html)
+  + [Descargar material](https://zenodo.org/record/7871723/files/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa-2022__2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7871723.svg)](https://doi.org/10.5281/zenodo.7871723)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/tree/2022__2023)
 ***
 
 
@@ -147,6 +124,12 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/6540394/files/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6540394.svg)](https://doi.org/10.5281/zenodo.6540394)  
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/tree/2021-2022)
 
+***
++ **Práctica: Modelización de las interacciones ecológicas. Desde el crecimiento exponencial hasta las cascadas tróficas**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2022-2023/guion_practica_modelizacion.html)
+  + [Descargar material](https://zenodo.org/record/7871759/files/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7871759.svg)](https://doi.org/10.5281/zenodo.7871759)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2022-2023)
 ***
 + **Ecosistemas. Generalidades. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2021-2022/guion_ecosistemas.html)
