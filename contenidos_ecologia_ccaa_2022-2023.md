@@ -45,10 +45,10 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 
-+ PENDIENTE**Práctica: Algunas pistas para no sucumbir en el mar de información en el que navegamos...** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/guion_practica_biblio.html). 
-  + [Descargar material](https://zenodo.org/record/6301735/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2021_2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6301735.svg)](https://doi.org/10.5281/zenodo.6301735)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/tree/2021_2022)
++ **Práctica: Algunas pistas para no sucumbir en el mar de información en el que navegamos...** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/guion_practica_biblio.html). 
+  + [Descargar material](https://zenodo.org/record/8043705/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8043705.svg)](https://doi.org/10.5281/zenodo.8043705)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/tree/2022_2023)
 
 
 ***
@@ -130,7 +130,35 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2022-2023/guion_practica_modelizacion.html)
   + [Descargar material](https://zenodo.org/record/7871759/files/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7871759.svg)](https://doi.org/10.5281/zenodo.7871759)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2022-2023)
-***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + **Ecosistemas. Generalidades. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2021-2022/guion_ecosistemas.html)
   + [Descargar material](https://zenodo.org/record/6540440/files/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6540440.svg)](https://doi.org/10.5281/zenodo.6540440)
@@ -142,10 +170,10 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/6543445/files/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6543445.svg)](https://doi.org/10.5281/zenodo.6543445)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/tree/2021-2022)
 
-+ **Práctica: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> (FALTA ARRGLAR LFS)
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2021-2022/guion_ndvi.html)
-  + [Descargar material](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/archive/refs/tags/2021-2022.zip)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/tree/2021-2022)
++ HAY PROBLEMAS CON ZENODO **Práctica: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> (FALTA ARRGLAR LFS)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2022_2023/guion_ndvi.html)
+  + [Descargar material](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/archive/refs/tags/2022_2023.zip)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/tree/2022_2023)
 
 ***
 
@@ -162,23 +190,13 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
   ***
 
-+ **Aproximaciones socioecológicas** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" />
-  
-  + [Descargar material](https://drive.google.com/file/d/1EkhxuInZUM90xD2URS4DUas_BjmsjiFZ/view?usp=sharing)
-
-
-+ **Práctica: Diseño participativo de escenarios de futuro** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" />
-  
-  + [Descargar material](https://drive.google.com/file/d/1f_v87Xv2yO5ozM4nOHTiZhgJO_6JtF_m/view?usp=sharing)
-  
-  ***
-  
 + **Biosfera. Ciclos biogeoquímicos. La hipótesis Gaia** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021--2022/guion_ciclos_biogeoquimicos.html)
-  + [Descargar material](https://zenodo.org/record/6634365/files/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634365.svg)](https://doi.org/10.5281/zenodo.6634365)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/tree/2021--2022)
 
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021--2022/guion_ciclos_biogeoquimicos.html)
++ [Descargar material](https://zenodo.org/record/6634365/files/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634365.svg)](https://doi.org/10.5281/zenodo.6634365)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/tree/2021--2022)
+  
   ***
 
 + **Cambio global. Antropoceno**
