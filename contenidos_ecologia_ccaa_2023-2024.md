@@ -1,6 +1,6 @@
 #  Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO.
 
-### Curso 2022-2023
+### Curso 2023-2024
 
 Texto introductorio
 
@@ -21,9 +21,21 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 ## *Secuencia de temas abordados* 
 
 + **Introducción a la asignatura.** 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2022___2023/guion_introduccion_asignatura.html)
-  + [Descargar material](https://zenodo.org/record/7671245/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2022___2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7671245.svg)](https://doi.org/10.5281/zenodo.7671245)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2022___2023) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2023_2024/guion_introduccion_asignatura.html)
+  + [Descargar material](https://zenodo.org/records/10654953/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10654953.svg)](https://doi.org/10.5281/zenodo.10654953)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2023_2024)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
 ***
 
 + **Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
