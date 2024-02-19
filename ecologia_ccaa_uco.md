@@ -26,4 +26,9 @@ Si has llegado a esta web sin contexto alguno, quizás te apetezca leer [esto](h
 
   Durante este curso dedicamos mucho esfuerzo a integrar en el temario conceptos propios de la socioecología. Pudimos hacer esto gracias a la incorporación de Elisa Oteros Rozas. La salida de campo a Sierra Nevada también fue uno de los hechos destacables de este curso.
   
+  ***
+  
 + [**Material del curso 2022-2023**](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/contenidos_ecologia_ccaa_2022-2023.html)
+  Este curso estuvo marcado por la salida de Elisa como profesora (snif, snif) y por la excursión a Sierra Nevada, que nos llevó un día y medio. Además, contamos con estudiantes de varios grados. 
+  
+  
