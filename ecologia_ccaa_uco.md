@@ -21,3 +21,9 @@ Si has llegado a esta web sin contexto alguno, quizás te apetezca leer [esto](h
 + **[Material del curso 2020-2021](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/contenidos_ecologia_ccaa_2020-2021.html)**
   Es el primer curso en el que uso este repositorio en modo "explotación". Además de subir el material al moodle de la UCO, lo ponía aquí. También teníamos un grupo de Telegram compartido con los alumnos. Allí promovíamos debates y compartí con ellos todo el material. La impresión general fue positiva. Creo que los alumnos salieron contentos y, sobre todo, aprendieron bastante. Esta impresión no se ha visto reflejada en las encuestas de los alumnos. Tampoco en la tasa de éxito de la asignatura. 
 ***
+
++ [**Material del curso 2021-2022**](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/contenidos_ecologia_ccaa_2021-2022.html)
+
+  Durante este curso dedicamos mucho esfuerzo a integrar en el temario conceptos propios de la socioecología. Pudimos hacer esto gracias a la incorporación de Elisa Oteros Rozas. La salida de campo a Sierra Nevada también fue uno de los hechos destacables de este curso.
+  
++ [**Material del curso 2022-2023**](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/contenidos_ecologia_ccaa_2022-2023.html)

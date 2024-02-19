@@ -2,9 +2,11 @@
 
 ### Curso 2022-2023
 
-Texto introductorio
+Este curso académico ha estado marcado por la salida de campo que hicimos a Sierra Nevada los días 18 y 19 de mayo. Fue la primera vez que organizamos una excursión tan larga en esta asignatura. Pero lo más relevante fue que asistieron estudiantes de varias titulaciones. Concretamente asistieron estudiantes de ciencias ambientales (2º curso. Ecología), biología (3º curso. Ecología II), ingeniería forestal (2º curso. Ecología) y del máster Geoforest. La idea era poner a trabajar juntos a estudiantes con formas diferentes de ver la realidad. Confiamos en que esta aproximación multidisciplinar acerque a los estudiantes a la situación que vivirán cuando terminen sus estudios universitarios. 
 
-![portada](url foto portada)
+Otro hecho destacable de este curso está relacionado con el ajuste de las sesiones prácticas a la salida de campo. Se ha intentado que las prácticas de laboratorio (con ordenador) se alineen con lo que vemos en la salida de campo. 
+
+![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada_2022_2023.JPG)
 
 
 
@@ -131,34 +133,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/7871759/files/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7871759.svg)](https://doi.org/10.5281/zenodo.7871759)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2022-2023)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***
 + **Ecosistemas. Generalidades. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2021-2022/guion_ecosistemas.html)
   + [Descargar material](https://zenodo.org/record/6540440/files/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6540440.svg)](https://doi.org/10.5281/zenodo.6540440)
@@ -170,7 +145,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/6543445/files/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6543445.svg)](https://doi.org/10.5281/zenodo.6543445)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/tree/2021-2022)
 
-+ HAY PROBLEMAS CON ZENODO **Práctica: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> (FALTA ARRGLAR LFS)
++ **Práctica: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> (FALTA ARRGLAR LFS)
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2022_2023/guion_ndvi.html)
   + [Descargar material](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/archive/refs/tags/2022_2023.zip)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/tree/2022_2023)
@@ -193,14 +168,19 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 + **Biosfera. Ciclos biogeoquímicos. La hipótesis Gaia** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
 
 
-+ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021--2022/guion_ciclos_biogeoquimicos.html)
-+ [Descargar material](https://zenodo.org/record/6634365/files/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634365.svg)](https://doi.org/10.5281/zenodo.6634365)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021--2022/guion_ciclos_biogeoquimicos.html)
+
+
+  + [Descargar material](https://zenodo.org/record/6634365/files/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634365.svg)](https://doi.org/10.5281/zenodo.6634365)
+
+
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/tree/2021--2022)
-  
-  ***
+    
+    ***
+
+
 
 + **Cambio global. Antropoceno**
-
     + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/guion_cambio_global.html)
     + [Descargar material](https://zenodo.org/record/6634374/files/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634374.svg)](https://doi.org/10.5281/zenodo.6634374)
     + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/tree/2021-2022)
@@ -208,29 +188,13 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 ***
 
 + **Práctica: Excursión a Sierra Nevada.**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2021-2022/guion_salida_sierra_nevada.html)
-  + [Descargar material](https://zenodo.org/record/6634697/files/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634697.svg)](https://doi.org/10.5281/zenodo.6634697)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/tree/2021--2022)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2022-2023/guion_salida_sierra_nevada.html)
+  + [Descargar material](https://zenodo.org/records/10679979/files/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10679979.svg)](https://doi.org/10.5281/zenodo.10679979)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/tree/2022-2023)
 
 ***
-
-
-
-***
-+ ok **Tarea: Portafolio**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico2](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2022-2023/guion_portafolio.html)
++ **Tarea: Portafolio**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2022-2023/guion_portafolio.html)
   + [Descargar material](https://zenodo.org/record/7764988/files/aprendiendo-cosas/T_portafolio_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7764988.svg)](https://doi.org/10.5281/zenodo.7764988)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2022-2023)
 ***
-+ **Resumen de la asignatura** 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/2021-2022/resumen_asignatura.html)
-  + [Descargar material](https://zenodo.org/record/6634686/files/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634686.svg)](https://doi.org/10.5281/zenodo.6634686)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/tree/2021-2022)
-
-***
-
-
-
-
-
-<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/imagenes/niveles_actividades.png" alt="portada" style="zoom:200%;" />
