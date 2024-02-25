@@ -1,7 +1,7 @@
 # Normas de uso de herramientas de inteligencia artificial
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
