@@ -20,34 +20,17 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 ## *Secuencia de temas abordados* 
 
-+ **Introducción a la asignatura.** 
++ ok**Introducción a la asignatura.** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2023_2024/guion_introduccion_asignatura.html)
   + [Descargar material](https://zenodo.org/records/10654953/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10654953.svg)](https://doi.org/10.5281/zenodo.10654953)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2023_2024)
   
 ***
 
-+ **Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
++ ok**Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2023_2024/guion_generalidades_ecologia.html). 
   + [Descargar material](https://zenodo.org/records/10694689/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10694689.svg)](https://doi.org/10.5281/zenodo.10694689)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2023_2024)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ***
@@ -56,10 +39,10 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/7690525/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7690525.svg)](https://doi.org/10.5281/zenodo.7690525)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2022_2023)
 
-+ **Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2022_2023/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/record/7689023/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2022_2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7689023.svg)](https://doi.org/10.5281/zenodo.7689023)
-  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2022_2023)
++ ok**Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2023_2024/guion_actividad_UICN.html)
+  + [Descargar material](https://zenodo.org/records/10724476/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10724476.svg)](https://doi.org/10.5281/zenodo.10724476)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2023_2024)
 
 
 
@@ -71,21 +54,21 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 ***
-+ **Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
++ ok**Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
   
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2022-2023/guion_competencia_intraespecifica.html) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2023_2024/guion_competencia_intraespecifica.html) 
   
-  + [Descargar material](https://zenodo.org/record/7702113/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7702113.svg)](https://doi.org/10.5281/zenodo.7702113)
+  + [Descargar material](https://zenodo.org/records/10780993/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10780993.svg)](https://doi.org/10.5281/zenodo.10780993)
   
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2022-2023)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2023_2024)
   
     
   
-+ **Práctica: Manejo de pinares de repoblación. Un ejemplo de la importancia de la competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
++ ok**Práctica: Manejo de pinares de repoblación. Un ejemplo de la importancia de la competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2022-2023/guion_competencia_intraespecifica_pinares.html) 
-  + [Descargar material](https://zenodo.org/record/7754035/files/aprendiendo-cosas/P_comp_intra_ecologia_CCAA-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7754035.svg)](https://doi.org/10.5281/zenodo.7754035)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/tree/2022-2023) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2023_2024/guion_competencia_intraespecifica_pinares.html) 
+  + [Descargar material](https://zenodo.org/records/10780954/files/aprendiendo-cosas/P_comp_intra_ecologia_CCAA-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10780954.svg)](https://doi.org/10.5281/zenodo.10780954)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/tree/2023_2024) 
 ***
 
 
