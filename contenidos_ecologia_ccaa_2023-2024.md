@@ -113,7 +113,7 @@ FALTA INCORPORAR:
 
     + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/2023_2024/guion_actividad_escalas_biodiversidad.html)
 
-    + [Descargar material](https://zenodo.org/records/10997477/files/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10997477.svg)](https://doi.org/10.5281/zenodo.10997477)
+    + [Descargar material](https://zenodo.org/records/10997477/files/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10971584.svg)](https://doi.org/10.5281/zenodo.10971584)
 
     + [Ver material en Github](https://github.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/tree/2023_2024)
 
@@ -199,10 +199,10 @@ FALTA INCORPORAR:
 
 ***
 
-+ **Ecosistemas. Producción secundaria y descomposición. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2021-2022/guion_prod_secundaria_descomposicion.html)
-  + [Descargar material](https://zenodo.org/record/6634407/files/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634407.svg)](https://doi.org/10.5281/zenodo.6634407)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/tree/2021-2022)
++ok **Ecosistemas. Producción secundaria y descomposición. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2023_2024/guion_prod_secundaria_descomposicion.html)
+  + [Descargar material](https://zenodo.org/records/11123130/files/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11123130.svg)](https://doi.org/10.5281/zenodo.11123130)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/tree/2023_2024)
 ***
 + **Ecosistemas. Sucesión ecológica. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
 
