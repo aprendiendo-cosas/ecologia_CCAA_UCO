@@ -59,7 +59,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 ***
-+ ok**Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
++ ok**Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion27.png" alt="aplica" style="zoom:100%;" />
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2023_2024/guion_competencia_intraespecifica.html) 
   + [Descargar material](https://zenodo.org/records/10780993/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10780993.svg)](https://doi.org/10.5281/zenodo.10780993)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2023_2024)
