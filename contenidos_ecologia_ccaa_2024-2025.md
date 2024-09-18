@@ -28,10 +28,10 @@ ok+ **Introducción a la asignatura.**
 
 ***
 
-+ **Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2023_2024/guion_generalidades_ecologia.html). 
-  + [Descargar material](https://zenodo.org/records/10694689/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10694689.svg)](https://doi.org/10.5281/zenodo.10694689)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2023_2024)
+ok + **Generalidades de la ecología. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/guion_generalidades_ecologia.html). 
+  + [Descargar material](https://zenodo.org/records/13784681/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13784681.svg)](https://doi.org/10.5281/zenodo.13784681)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2024_2025)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/releases)
 
 
