@@ -71,19 +71,19 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 
 ***
-+ **Poblaciones. Competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2023_2024/guion_competencia_intraespecifica.html) 
-  + [Descargar material](https://zenodo.org/records/10780993/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10780993.svg)](https://doi.org/10.5281/zenodo.10780993)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2023_2024)
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>  **Poblaciones. Competencia intraespecífica.** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2024-2025/guion_competencia_intraespecifica.html) 
+  + [Descargar material](https://zenodo.org/records/13904474/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2024-2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13904474.svg)](https://doi.org/10.5281/zenodo.13904474)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2024-2025)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/releases)
 ***
 
-<span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>  **Búsqueda de documentación sobre los ecosistemas de Sierra Nevada** 
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>  **Búsqueda de documentación sobre los ecosistemas de Sierra Nevada** 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/guion_practica_biblio.html). 
-  + [Descargar material](https://zenodo.org/records/13846718/files/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/2024__2025.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13847342.svg)](https://doi.org/10.5281/zenodo.13847342)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/tree/2024__2025)
-  + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/P_creacion_equipos_ecologia_CCAA/releases)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/guion_practica_biblio.html). 
+  + [Descargar material](https://zenodo.org/records/13904238/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2024_2025.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13904238.svg)](https://doi.org/10.5281/zenodo.13904238)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases/tag/2024_2025)
+  + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases)
 
 
 ***

@@ -66,22 +66,14 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/releases)
 ***
 
-+ **Poblaciones. Explotación de poblaciones.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2023_2024/guion_competencia_intraespecifica.html) 
+ok + **Poblaciones. Explotación de poblaciones.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2023_2024/guion_explotacion_poblaciones.html) 
   
-  + [Descargar material](https://zenodo.org/records/10780993/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10780993.svg)](https://doi.org/10.5281/zenodo.10780993)
+  + [Descargar material](https://zenodo.org/records/13909860/files/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13909860.svg)](https://doi.org/10.5281/zenodo.13909860)
   
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2023_2024)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/tree/2023_2024)
 
-
-FALTA INCORPORAR:
-- HILO ARGUMENTAL BASADO EN LA GRÁFICA DE CRECIMIENTO CON COMPETENCIA INTRAESPECÍFICA.
-- RECUPERAR la charla que tuve con chatgpt sobre esto.
-- recuperar esquemas en la pizarra.
-
-
-
-
+---
 
 + ok**Práctica: Manejo de pinares de repoblación. Un ejemplo de la importancia de la competencia intraespecífica.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   
