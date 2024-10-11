@@ -88,18 +88,14 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-
-
-
-
-+ **Poblaciones. Explotación de poblaciones.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2023_2024/guion_competencia_intraespecifica.html) 
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  **Poblaciones. Explotación de poblaciones.** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2024-2025/guion_explotacion_poblaciones.html) 
   
-  + [Descargar material](https://zenodo.org/records/10780993/files/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10780993.svg)](https://doi.org/10.5281/zenodo.10780993)
+  + [Descargar material](https://zenodo.org/records/13914051/files/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa-2024-2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13914051.svg)](https://doi.org/10.5281/zenodo.13914051)
   
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2023_2024)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/tree/2024-2025)
 
-
+---
 
 
 
