@@ -232,7 +232,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 ***
 
 + **Práctica: Excursión a Sierra Nevada.**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  + [Guión dinámico de la salida](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2021-2022/guion_salida_sierra_nevada.html)
+  + [Guión dinámico de la salida](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2023_2024/guion_salida_sierra_nevada.html)
   + [Descargar material](https://zenodo.org/record/6634697/files/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634697.svg)](https://doi.org/10.5281/zenodo.6634697)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/tree/2021--2022)
 + Guiones para los trabajos de tipos de ecosistemas:
@@ -240,7 +240,6 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
     + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023-2024/guion_bosque_ribera.html)
     + [Descargar material](https://zenodo.org/records/13944023/files/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa-2023-2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944023.svg)](https://doi.org/10.5281/zenodo.13944023)
     + [Ver material en Github](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/tree/2023-2024)
-
   + *Matorral de media montaña*
     + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/2023_2024/guion_matorrales_media_montania.html)
     + [Descargar material](https://zenodo.org/records/13944568/files/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa-2023_2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944568.svg)](https://doi.org/10.5281/zenodo.13944568)
@@ -250,17 +249,17 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
     + [Descargar material](https://zenodo.org/records/13944641/files/aprendiendo-cosas/C_pinares_alta_montania_ecologia_ccaa-2023_2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944641.svg)](https://doi.org/10.5281/zenodo.13944641)
     + [Ver material en Github](https://github.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_ccaa/tree/2023_2024)
   + *Robledales*
-    + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023-2024/guion_bosque_ribera.html)
-    + [Descargar material](https://zenodo.org/records/13944023/files/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa-2023-2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944023.svg)](https://doi.org/10.5281/zenodo.13944023)
-    + [Ver material en Github](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/tree/2023-2024)
+    + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/2023-2024/guion_robledales.html)
+    + [Descargar material](https://zenodo.org/records/13945070/files/aprendiendo-cosas/C_robledales_ecologia_ccaa-2023-2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13945070.svg)](https://doi.org/10.5281/zenodo.13945070)
+    + [Ver material en Github](https://github.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/tree/2023-2024)
   + *Piornales-enebrales*
-    + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023-2024/guion_bosque_ribera.html)
-    + [Descargar material](https://zenodo.org/records/13944023/files/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa-2023-2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944023.svg)](https://doi.org/10.5281/zenodo.13944023)
-    + [Ver material en Github](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/tree/2023-2024)
+    + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/2023_2024/guion_piornal_enebral.html)
+    + [Descargar material](https://zenodo.org/records/13944788/files/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa-2023_2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944788.svg)](https://doi.org/10.5281/zenodo.13944788)
+    + [Ver material en Github](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/tree/2023_2024)
   + *Pastizales de alta montaña*
-    + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023-2024/guion_bosque_ribera.html)
-    + [Descargar material](https://zenodo.org/records/13944023/files/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa-2023-2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944023.svg)](https://doi.org/10.5281/zenodo.13944023)
-    + [Ver material en Github](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/tree/2023-2024)
+    + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/2023_2024/guion_pastizales_altamontania.html)
+    + [Descargar material](https://zenodo.org/records/13944837/files/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa-2023_2024.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13944837.svg)](https://doi.org/10.5281/zenodo.13944837)
+    + [Ver material en Github](https://github.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/tree/2023_2024)
 
 
 ***
