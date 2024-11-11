@@ -4,7 +4,7 @@
 
 Texto introductorio
 
-![portada](url foto portada)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/refs/heads/master/imagenes/portada_2024_2025.JPG)
 
 
 
