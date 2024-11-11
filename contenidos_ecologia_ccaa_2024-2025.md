@@ -105,10 +105,10 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-+ **Comunidades. Generalidades. El concepto de diversidad. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" />
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2023_2024/guion_comunidades_diversidad.html)
-  + [Descargar material](https://zenodo.org/records/10988471/files/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10988471.svg)](https://doi.org/10.5281/zenodo.10988471)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/tree/2023_2024)
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> **Comunidades. Generalidades. El concepto de diversidad. **
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2024_2025/guion_comunidades_diversidad.html)
+  + [Descargar material](https://zenodo.org/records/13987939/files/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13987939.svg)](https://doi.org/10.5281/zenodo.13987939)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/tree/2024_2025)
 
 ***
 
@@ -131,11 +131,19 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-+ **Comunidades. Biogeografía de islas. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  **Comunidades. Biogeografía de islas. **
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2023_2024/guion_comunidades_biogeografia_islas.html)
-  + [Descargar material](https://zenodo.org/records/10988367/files/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10988367.svg)](https://doi.org/10.5281/zenodo.10988367)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/tree/2023_2024)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2024_2025/guion_comunidades_biogeografia_islas.html)
+  + [Descargar material](https://zenodo.org/records/14077416/files/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14077416.svg)](https://doi.org/10.5281/zenodo.14077416)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/tree/2024_2025)
+
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> **Tarea: Comparación entre biogeografía de islas y teoría de metapoblaciones.** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/2024_2025/guion_actividad_biogeoislas_vs_metapoblaciones.html)
+  + [Descargar material](https://zenodo.org/records/14077896/files/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa-2024_2025.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14077896.svg)](https://doi.org/10.5281/zenodo.14077896)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/tree/2024_2025)
+
+
+
 
 ***
 
