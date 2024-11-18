@@ -154,11 +154,11 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/tree/2023_2024)
 ***
 
-+ **Comunidades. Competencia interespecífica. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> **Comunidades. Competencia interespecífica. ** 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/2023_2024/guion_competencia_interespecifica.html)
-  + [Descargar material](https://zenodo.org/records/10988216/files/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10988216.svg)](https://doi.org/10.5281/zenodo.10988216)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/tree/2023_2024)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/2024_2025/guion_competencia_interespecifica.html)
+  + [Descargar material](https://zenodo.org/records/14182820/files/aprendiendo-cosas/Te_comunidades_comp_inter_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14182820.svg)](https://doi.org/10.5281/zenodo.14182820)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/tree/2024_2025)
 ***
 
 
