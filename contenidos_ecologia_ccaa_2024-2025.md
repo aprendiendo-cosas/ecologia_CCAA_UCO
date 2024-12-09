@@ -112,21 +112,20 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-+ **Práctica: Construcción de un mapa de diversidad de Sierra Nevada.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
-  
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2023-2024/guion_practica_mapa_biodiversidad.html)
-  + [Descargar material](https://zenodo.org/records/10950603/files/aprendiendo-cosas/P_shannon_ecologia_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10950603.svg)](https://doi.org/10.5281/zenodo.10950603)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/tree/2023-2024)
-  
-  ***
-  
-+ **Tarea: Efecto de la escala espacial en el significado del concepto de diversidad.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
+ok<span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> **Práctica: Construcción de un mapa de diversidad de Sierra Nevada.** 
 
-    + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/2023_2024/guion_actividad_escalas_biodiversidad.html)
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2024_2025/guion_practica_mapa_biodiversidad.html)
+  + [Descargar material](https://zenodo.org/records/14218301/files/aprendiendo-cosas/P_shannon_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14218301.svg)](https://doi.org/10.5281/zenodo.14218301)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/tree/2024-2025)
 
-    + [Descargar material](https://zenodo.org/records/10997477/files/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10971584.svg)](https://doi.org/10.5281/zenodo.10971584)
+***
 
-    + [Ver material en Github](https://github.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/tree/2023_2024)
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> **Tarea: Efecto de la escala espacial en el significado del concepto de diversidad.** 
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/2024_2025/guion_actividad_escalas_biodiversidad.html)
+
+  + [Descargar material](https://github.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/archive/refs/tags/2024_2025.zip) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14218466.svg)](https://doi.org/10.5281/zenodo.14218466)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_escalas_shannon_Andalucia_ecologia_ccaa/tree/2024_2025)
 
 
 ***
@@ -147,11 +146,11 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-+ **Comunidades. Depredación.**<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> **Comunidades. Depredación.**
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/2023_2024/guion_depredacion.html)
-  + [Descargar material](https://zenodo.org/records/10988318/files/aprendiendo-cosas/Te_depredacion_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10988318.svg)](https://doi.org/10.5281/zenodo.10988318)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/tree/2023_2024)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/2024_2025/guion_depredacion.html)
+  + [Descargar material](https://zenodo.org/records/14038370/files/aprendiendo-cosas/Te_comunidades_depredacion_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14038370.svg)](https://doi.org/10.5281/zenodo.14038370)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/tree/2024_2025)
 ***
 
 ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> **Comunidades. Competencia interespecífica. ** 
@@ -174,44 +173,18 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
   + [Descargar material](https://zenodo.org/record/7871759/files/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7871759.svg)](https://doi.org/10.5281/zenodo.7871759)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2022-2023)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+ **Ecosistemas. Generalidades. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2021-2022/guion_ecosistemas.html)
-  + [Descargar material](https://zenodo.org/record/6540440/files/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6540440.svg)](https://doi.org/10.5281/zenodo.6540440)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/tree/2021-2022)
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> **Ecosistemas. Generalidades. ** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2024_2025/guion_ecosistemas.html)
+  + [Descargar material](https://zenodo.org/records/14226594/files/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa-2024_2025.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14226594.svg)](https://doi.org/10.5281/zenodo.14226594)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/tree/2024_2025)
 
 ***
-+ **Ecosistemas. Producción primaria**. <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/2021-2022/guion_produccion_primaria.html)
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> **Ecosistemas. Producción primaria**. 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/2024-2025/guion_produccion_primaria.html)
   + [Descargar material](https://zenodo.org/record/6543445/files/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6543445.svg)](https://doi.org/10.5281/zenodo.6543445)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/tree/2021-2022)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/tree/2024-2025)
 
 + HAY PROBLEMAS CON ZENODO **Práctica: Cuantificación de la producción primaria de los ecosistemas. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> (FALTA ARRGLAR LFS)
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2022_2023/guion_ndvi.html)
@@ -220,11 +193,11 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-+ **Ecosistemas. Producción secundaria y descomposición. ** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> **Ecosistemas. Producción secundaria y descomposición. **
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2023_2024/guion_prod_secundaria_descomposicion.html)
-  + [Descargar material](https://zenodo.org/records/11123130/files/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11123130.svg)](https://doi.org/10.5281/zenodo.11123130)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/tree/2023_2024)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2024_2025/guion_prod_secundaria_descomposicion.html)
+  + [Descargar material](https://zenodo.org/records/14343408/files/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14343408.svg)](https://doi.org/10.5281/zenodo.14343408)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/tree/2024_2025)
 ***
 + **Ecosistemas. Sucesión ecológica. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
 
@@ -234,6 +207,34 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 
 ***
+
+
++ **Biosfera. Ciclos biogeoquímicos. La hipótesis Gaia** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021--2022/guion_ciclos_biogeoquimicos.html)
+
+
+  + [Descargar material](https://zenodo.org/record/6634365/files/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa-2021--2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634365.svg)](https://doi.org/10.5281/zenodo.6634365)
+
+
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/tree/2021--2022)
+    
+    ***
+
+
+
++ **Cambio global. Antropoceno**
+    + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/guion_cambio_global.html)
+    + [Descargar material](https://zenodo.org/record/6634374/files/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6634374.svg)](https://doi.org/10.5281/zenodo.6634374)
+    + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/tree/2021-2022)
+
+
+
+
+
+
+
 
 + **Práctica: Excursión a Sierra Nevada.**  <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/practica.png" alt="practica" style="zoom:100%;" /> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2021-2022/guion_salida_sierra_nevada.html)
