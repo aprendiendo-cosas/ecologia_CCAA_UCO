@@ -44,11 +44,11 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-<span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>  **Plan docente para las prácticas de ecología** 
+ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>  **Plan docente para las prácticas de ecología** 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2024_2025/guion_plan_practicas.html). 
-  + [Descargar material](https://zenodo.org/records/13798883/files/aprendiendo-cosas/P_plan_practicas_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13798883.svg)](https://doi.org/10.5281/zenodo.13798883)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/tree/2024_2025)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2025_2026/guion_plan_practicas.html). 
+  + [Descargar material](https://zenodo.org/records/17195661/files/aprendiendo-cosas/P_plan_practicas_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195661.svg)](https://doi.org/10.5281/zenodo.17195661)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/tree/2025_2026)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/releases)
 
 ***
