@@ -28,10 +28,10 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
- <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span>  **Generalidades de la ecología. **  
-  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/guion_generalidades_ecologia.html). 
-  + [Descargar material](https://zenodo.org/records/13784681/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13784681.svg)](https://doi.org/10.5281/zenodo.13784681)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2024_2025)
+Ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span>  **Generalidades de la ecología. **  
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/guion_generalidades_ecologia.html). 
+  + [Descargar material](https://zenodo.org/records/17195741/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195741.svg)](https://doi.org/10.5281/zenodo.17195741)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2025_2026)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/releases)
 
 
@@ -53,11 +53,11 @@ ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
- <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> **Tarea: Categorías de amenaza de especies de la UICN.** 
+Ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> **Tarea: Categorías de amenaza de especies de la UICN.** 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2024_2025/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/records/13830392/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13830392.svg)](https://doi.org/10.5281/zenodo.13830392)
-  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2024_2025)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2025-2026/guion_actividad_UICN.html)
+  + [Descargar material](https://zenodo.org/records/17195875/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195875.svg)](https://doi.org/10.5281/zenodo.17195875)
+  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2025-2026)
   +  [Evolución de este acto docente](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/releases)
 
 ---
