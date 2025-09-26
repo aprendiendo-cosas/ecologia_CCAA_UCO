@@ -36,10 +36,10 @@ Ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 
 ***
- <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  **Aspectos generales sobre poblaciones ecológicas.**  
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2024_2025/guion_poblaciones_general.html). 
-  + [Descargar material](https://zenodo.org/api/records/13868322/files-archive) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13868322.svg)](https://doi.org/10.5281/zenodo.13868322)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2024_2025)
+Ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  **Aspectos generales sobre poblaciones ecológicas.**  
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2025_2026/guion_poblaciones_general.html). 
+  + [Descargar material](https://zenodo.org/records/17210286/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17210286.svg)](https://doi.org/10.5281/zenodo.17210286)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2025_2026)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/releases)
 
 ***
