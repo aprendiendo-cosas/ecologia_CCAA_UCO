@@ -79,7 +79,7 @@ ok  <span style="display: inline-block; font-size: 12px; color: white; backgroun
 Ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>  **Búsqueda de documentación sobre los ecosistemas de Sierra Nevada** 
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/guion_practica_biblio.html). 
-  + [Descargar material](https://zenodo.org/records/17238480/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2025_2026.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17238480.svg)](https://doi.org/10.5281/zenodo.17238480)
+  + [Descargar material](https://zenodo.org/records/17238480/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17238480.svg)](https://doi.org/10.5281/zenodo.17238480)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases/tag/2025_2026)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases)
 
@@ -96,7 +96,7 @@ Ok <span style="display: inline-block; font-size: 12px; color: white; background
 
 ***
 
-<span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  **Poblaciones. Metapoblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
+Ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  **Poblaciones. Metapoblaciones. **<img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/teoria.png" alt="teoria" style="zoom:100%;" /> <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/aplicacion.png" alt="aplica" style="zoom:100%;" />
 
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2024_2025/guion_metapoblaciones.html)
 + [Descargar material](https://zenodo.org/records/13981002/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13981002.svg)](https://doi.org/10.5281/zenodo.13981002)
