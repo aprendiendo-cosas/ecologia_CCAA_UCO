@@ -79,7 +79,7 @@ ok  <span style="display: inline-block; font-size: 12px; color: white; backgroun
 Ok <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>  **Búsqueda de documentación sobre los ecosistemas de Sierra Nevada** 
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/guion_practica_biblio.html). 
-  + [Descargar material](https://zenodo.org/records/17238480/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17238480.svg)](https://doi.org/10.5281/zenodo.17238480)
+  + [Descargar material](https://zenodo.org/records/17238480/files/aprendiendo-cosas/P_biblio_ecologia_ccaa-2025_2026.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17238480.svg)](https://doi.org/10.5281/zenodo.17238480)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases/tag/2025_2026)
   + [Evolución de este acto docente](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases)
 
