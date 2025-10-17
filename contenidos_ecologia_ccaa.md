@@ -2,7 +2,7 @@
 
 ### Curso 2020-2021
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/2020_2021/imagenes/portada_2020_2021.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/2020-2021/imagenes/portada_2020_2021.jpg)
 
 
 
@@ -187,7 +187,7 @@ En este curso se utilizó por primera vez el método de subir el material docent
 
 
 
-![esquema](https://raw.githubusercontent.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/2020_2021/imagenes/niveles_actividades.png)
+![esquema](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/2020-2021/imagenes/niveles_actividades.png)
 
 
 
@@ -198,7 +198,7 @@ En este curso se utilizó por primera vez el método de subir el material docent
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/archive/refs/tags/2020_2021.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye. Para descargar el material específico de cada tema debes de navegar hacia cada uno de ellos.
+[Aquí](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/archive/refs/tags/2020-2021.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye. Para descargar el material específico de cada tema debes de navegar hacia cada uno de ellos.
 
 ****
 
