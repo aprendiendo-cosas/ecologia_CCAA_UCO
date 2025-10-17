@@ -4,7 +4,7 @@
 
 Este curso ha estado marcado por una cierta vuelta a la normalidad después de la primera pandemia de COVID-19. También en el lado positivo, hemos contado con una nueva profesora en la asignatura: [Elisa Oteros Rozas](https://twitter.com/ElisaOtra). Su visión socioecológica ha sido muy enriquecedora para la asignatura. Pero lo más relevante ha sido que hemos contado con un grupo de estudiantes entregados a la causa de aprender ecología :) En la foto de abajo puedes ver a los valientes que se atrevieron con la excursión a Sierra Nevada
 
-![portada](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada_2021_2022.JPG)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/2021_2022/imagenes/portada_2021_2022.JPG)
 
 
 
