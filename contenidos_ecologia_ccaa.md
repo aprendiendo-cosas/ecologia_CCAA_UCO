@@ -2,7 +2,7 @@
 
 ### Curso 2020-2021
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/prueba/imagenes/portada_2020_2021.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/2020_2021/imagenes/portada_2020_2021.jpg)
 
 
 
@@ -187,7 +187,7 @@ En este curso se utilizó por primera vez el método de subir el material docent
 
 
 
-![esquema](https://github.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/raw/main/imagenes/niveles_actividades.png)
+![esquema](https://raw.githubusercontent.com/aprendiendo-cosas/resumen_evaluacion_ecologia_ccaa/2020_2021/imagenes/niveles_actividades.png)
 
 
 
