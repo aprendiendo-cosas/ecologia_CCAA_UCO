@@ -2,7 +2,9 @@
 
 ### Curso 2023-2024
 
-Texto introductorio
+- Se mantienen las reflexiones al final de cada tema para activar el preguntismo.
+- Se mantienen las preguntas bisagra en algunos temas.
+- vas revisando los actos docentes para identifiar cambios. Te has quedado por la práctica de bibliografía.
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/ecologia_CCAA_UCO/master/imagenes/portada_2023_2024.jpg)
 
