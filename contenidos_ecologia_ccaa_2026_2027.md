@@ -28,26 +28,20 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/records/22705429/files/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa-2026_2027.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22705429.svg)](https://doi.org/10.5281/zenodo.22705429)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2026_2027)
 
+---
+Ok  **Generalidades de la ecología. **  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
-
-
-
-
-
-
-
-
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2026_2027/guion_generalidades_ecologia.html). 
+  + [Descargar material](https://zenodo.org/records/22834175/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2026_2027.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22834175.svg)](https://doi.org/10.5281/zenodo.22834175)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2026_2027)
 
 ---
 
- **Generalidades de la ecología. **  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
-
-  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/guion_generalidades_ecologia.html). 
-  + [Descargar material](https://zenodo.org/records/17195741/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195741.svg)](https://doi.org/10.5281/zenodo.17195741)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/tree/2025_2026)
 
 
----
+
+
+
 
 **Aspectos generales sobre poblaciones ecológicas.**   <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  
 
