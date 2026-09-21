@@ -29,7 +29,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/tree/2026_2027)
 
 ---
-Ok  **Generalidades de la ecología. **  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+Ok  **Generalidades de la ecología. Plan docente.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
   + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2026_2027/guion_generalidades_ecologia.html). 
   + [Descargar material](https://zenodo.org/records/22834175/files/aprendiendo-cosas/Te_generalidades_ecologia_ccaa-2026_2027.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22834175.svg)](https://doi.org/10.5281/zenodo.22834175)
@@ -39,15 +39,20 @@ Ok  **Generalidades de la ecología. **  <span style="display: inline-block; fon
 
 
 
+ok **Aspectos generales sobre poblaciones ecológicas.**   <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2026-2027/guion_poblaciones_general.html). 
+  + [Descargar material](https://zenodo.org/records/22864249/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2026-2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22864249.svg)](https://doi.org/10.5281/zenodo.22864249)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2026-2027)
+
+---
 
 
+**Tarea: Categorías de amenaza de especies de la UICN.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
 
-
-**Aspectos generales sobre poblaciones ecológicas.**   <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  
-
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2025_2026/guion_poblaciones_general.html). 
-  + [Descargar material](https://zenodo.org/records/17210286/files/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17210286.svg)](https://doi.org/10.5281/zenodo.17210286)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/tree/2025_2026)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2025-2026/guion_actividad_UICN.html)
+  + [Descargar material](https://zenodo.org/records/17195875/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195875.svg)](https://doi.org/10.5281/zenodo.17195875)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2025-2026)
 
 ---
 
@@ -59,13 +64,6 @@ Ok  **Generalidades de la ecología. **  <span style="display: inline-block; fon
 
 ---
 
-**Tarea: Categorías de amenaza de especies de la UICN.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
-
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2025-2026/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/records/17195875/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195875.svg)](https://doi.org/10.5281/zenodo.17195875)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2025-2026)
-
----
 
 **Poblaciones. Competencia intraespecífica.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> 
 
