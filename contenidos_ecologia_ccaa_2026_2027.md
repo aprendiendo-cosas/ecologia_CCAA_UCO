@@ -54,11 +54,11 @@ ok **Actividad en clase: Categorías de amenaza de especies de la UICN.**  <span
 
 ---
 
- **Plan docente para las prácticas de ecología**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+ok **Plan docente para las prácticas de ecología**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2025_2026/guion_plan_practicas.html). 
-  + [Descargar material](https://zenodo.org/records/17195661/files/aprendiendo-cosas/P_plan_practicas_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17195661.svg)](https://doi.org/10.5281/zenodo.17195661)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/tree/2025_2026)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2026_2027/guion_plan_practicas.html). 
+  + [Descargar material](https://zenodo.org/records/22880734/files/aprendiendo-cosas/P_plan_practicas_ecologia_ccaa-2026_2027.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22880734.svg)](https://doi.org/10.5281/zenodo.22880734)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/tree/2026_2027)
 
 ---
 
