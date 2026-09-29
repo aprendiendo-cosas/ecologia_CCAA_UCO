@@ -71,10 +71,10 @@ ok **Plan docente para las prácticas de ecología**  <span style="display: inli
 
 ---
 
-**Poblaciones. Dinámica en clase sobre competencia intraespecífica.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> 
+ok**Poblaciones. Dinámica en clase sobre competencia intraespecífica.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/2025-2026/guion_dinamica_competencia_intraespecifica.html) 
-  + [Descargar material](https://zenodo.org/records/18157980/files/aprendiendo-cosas/D_comp_intra_ecologia_CCAA-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18157980.svg)](https://doi.org/10.5281/zenodo.18157980)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/2026_2027/guion_dinamica_competencia_intraespecifica.html) 
+  + [Descargar material](https://zenodo.org/records/23041489/files/aprendiendo-cosas/D_comp_intra_ecologia_CCAA-2026_2027.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23041489.svg)](https://doi.org/10.5281/zenodo.23041489)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/D_comp_intra_ecologia_CCAA/tree/2025-2026)
 
 ---
