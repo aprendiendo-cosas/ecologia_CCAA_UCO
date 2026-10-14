@@ -88,9 +88,9 @@ ok**Poblaciones. Dinámica en clase sobre competencia intraespecífica.**  <span
 
 ---
 
-**Poblaciones. Explotación de poblaciones.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span> 
+ok**Poblaciones. Explotación de poblaciones.**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span> 
 
-ok  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026-2027/guion_explotacion_poblaciones.html) 
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026-2027/guion_explotacion_poblaciones.html) 
 
   + [Descargar material](https://zenodo.org/records/23323158/files/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa-2026-2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23323158.svg)](https://doi.org/10.5281/zenodo.23323158)
 
@@ -108,9 +108,9 @@ ok  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaci
 
 ok **Poblaciones. Metapoblaciones. ** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>  
 
-+ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2026_2027/guion_metapoblaciones.html)
-+ [Descargar material](https://zenodo.org/records/23345713/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2026_2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23345713.svg)](https://doi.org/10.5281/zenodo.23345713)
-+ [Ver material en Github](https://github.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/tree/2026_2027)
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2026-2027/guion_metapoblaciones.html)
++ [Descargar material](https://zenodo.org/records/23361458/files/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa-2026-2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23361458.svg)](https://doi.org/10.5281/zenodo.23361458)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/tree/2026-2027)
 
 ---
 
