@@ -122,11 +122,11 @@ ok **Poblaciones. Metapoblaciones. ** <span style="display: inline-block; font-s
 
 ---
 
-**Práctica: Construcción de un mapa de diversidad de Sierra Nevada.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+ok **Práctica: Construcción de un mapa de diversidad de Sierra Nevada.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
-  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2025_2026/guion_practica_mapa_biodiversidad.html)
-  + [Descargar material](https://zenodo.org/records/17593915/files/aprendiendo-cosas/P_shannon_ecologia_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593915.svg)](https://doi.org/10.5281/zenodo.17593915)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/tree/2025_2026)
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2026_2027/guion_practica_mapa_biodiversidad.html)
+  + [Descargar material](https://zenodo.org/records/23743911/files/aprendiendo-cosas/P_shannon_ecologia_ccaa-2026_2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23743911.svg)](https://doi.org/10.5281/zenodo.23743911)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/tree/2026_2027)
 
 ---
 
