@@ -289,11 +289,11 @@ ok **Práctica: Construcción de un mapa de diversidad de Sierra Nevada.** <span
 
 
 
-**Caracterización de los factores abióticos de los ecosistemas de Sierra Nevada**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+ok **Caracterización de los factores abióticos de los ecosistemas de Sierra Nevada**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
-+ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa/2025-2026/guion_factores_abioticos.html)
-+ [Descargar material](https://zenodo.org/records/17965933/files/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17965933.svg)](https://doi.org/10.5281/zenodo.17965933)
-+ [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2025-2026)
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa/2026_2027/guion_factores_abioticos.html)
++ [Descargar material](https://zenodo.org/records/23745180/files/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa-2026_2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23745180.svg)](https://doi.org/10.5281/zenodo.23745180)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/tree/2026_2027)
 
 ---
 
