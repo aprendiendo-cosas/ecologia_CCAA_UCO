@@ -297,11 +297,11 @@ ok **Caracterización de los factores abióticos de los ecosistemas de Sierra Ne
 
 ---
 
-**Distribución de las especies más importantes de tu ecosistema**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+ok **Distribución de las especies más importantes de tu ecosistema**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
-+ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/2025_2026/guion_area_distribucion.html)
-+ [Descargar material](https://zenodo.org/records/17966034/files/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17966034.svg)](https://doi.org/10.5281/zenodo.17966034)
-+ [Ver material en Github](https://github.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/tree/2025-2026)
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/2026_2027/guion_area_distribucion.html)
++ [Descargar material](https://zenodo.org/records/23745626/files/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa-2026_2027.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23745626.svg)](https://doi.org/10.5281/zenodo.23745626)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/tree/2026_2027)
 
 ---
 
