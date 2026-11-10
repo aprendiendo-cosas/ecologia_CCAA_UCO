@@ -160,13 +160,7 @@ ok **Práctica: Construcción de un mapa de diversidad de Sierra Nevada.** <span
   + [Descargar material](https://zenodo.org/records/14038370/files/aprendiendo-cosas/Te_comunidades_depredacion_ecologia_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14038370.svg)](https://doi.org/10.5281/zenodo.14038370)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/tree/2024_2025)
 
----
 
-**Muestra de cine de pueblos indígenas. Visionado de documentales.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span> 
-
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/De_cine_pueblos_indigenas_ccaa/2025_2026/guion_cine_indigena.html)
-  + [Descargar material](https://zenodo.org/records/17511961/files/aprendiendo-cosas/De_cine_pueblos_indigenas_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17511961.svg)](https://doi.org/10.5281/zenodo.17511961)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/De_cine_pueblos_indigenas_ccaa/tree/2025_2026)
 
 ---
 
